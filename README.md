@@ -1,2 +1,2 @@
  SRNY
-SRNY is an E-Commerce project thar built using MVC 
+SRNY is an E-Commerce project that built using MVC 
